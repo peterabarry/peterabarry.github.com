@@ -2,7 +2,7 @@
 layout: post
 title: "Git: Delete a local branch"
 description: ""
-category: 
-tags: []
+category: Programming
+tags: [ git, tips]
 ---
 {% include JB/setup %}
